@@ -1,4 +1,4 @@
-# Yo! 👊🏿 My name is Urban, but you can call me bunny 🐰 or just refer to me as [plesastapevka](https://github.com/plesastapevka/).
+# Yo! 👊🏿 My name is Urban, but you can call me bunny [^bunny] 🐰 or just refer to me as [plesastapevka](https://github.com/plesastapevka/).
 
 <a href="https://github.com/plesastapevka/github-readme-stats">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
@@ -12,11 +12,12 @@
 
 <img align="left" width="150" height="150" alt="Bunny Animoji" src="bunny.png"/>
 
-- #### bunny
-  /ˈbʌni/
-  
-  noun **INFORMAL**
-  - a child's term for a rabbit.
+> - #### bunny
+>    /ˈbʌni/
+>  
+>    *noun* **INFORMAL**
+>    
+>    \- a child's term for a rabbit.
 
 #
 
@@ -42,9 +43,9 @@
 
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=plesastapevka&show_icons=true&theme=dark&count_private=true)
+[![Stats Overview](https://github-readme-stats.vercel.app/api?username=plesastapevka&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plesastapevka&layout=compact&theme=dark)](https://github.com/plesastapevka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plesastapevka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
