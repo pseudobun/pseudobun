@@ -10,6 +10,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
 
+<img align="left" width="150" height="150" alt="Bunny Animoji" src="bunny.png"/>
+
 - #### bunny
   /ˈbʌni/
   
