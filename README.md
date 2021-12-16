@@ -36,7 +36,7 @@
 - **OS:** macOS Monterey
 - **Laptop:** Apple Macbook Pro 16" (M1 Max)
 - **Browser:** Safari, Google Chrome, Brave, Firefox
-- **Terminal:** [iTerm2](https://iterm2.com/)
+- **Terminal:** [iTerm2](https://iterm2.com/) and the [configuration I use](https://github.com/plesastapevka/iterm-config)
 - **Code Editors:** [JetBrains](https://www.jetbrains.com/) and [VSCode](https://code.visualstudio.com/)
 
 #
