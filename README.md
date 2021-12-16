@@ -1,4 +1,4 @@
-# Yo! 👊🏿 My name is Urban, but you can call me bunny [^bunny] 🐰 or just refer to me as [plesastapevka](https://github.com/plesastapevka/).
+# Yo! 👊🏿 My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
 
 <a href="https://github.com/plesastapevka/github-readme-stats">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
 
-<img align="left" width="150" height="150" alt="Bunny Animoji" src="bunny.png"/>
+<img align="left" width="160" height="160" alt="Bunny Animoji" src="bunny.png"/>
 
 > - #### bunny
 >    /ˈbʌni/
@@ -59,11 +59,10 @@
 
 <a href="https://www.buymeacoffee.com/bxnny" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" ></a>
 
-
 #
 
 <div align="center">
 
-### With ❤️ from me to you.
+### *With ❤️ from me to you.*
 
 </div>
