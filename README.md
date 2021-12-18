@@ -24,7 +24,7 @@
 ## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization and making the world a better place. Also, I really **LOVE** dogs. 🐶
 
 
-### 👨🏻‍💻 Career:
+### 👨🏻‍💻 Career
 - 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
 - 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
 - 🤔 &nbsp;I’m currently learning **Go, Rust and DID**
@@ -32,7 +32,7 @@
 
 #
 
-### ⚙️ Things I use to get stuff done:
+### ⚙️ Things I use to get stuff done
 - **OS:** macOS Monterey
 - **Laptop:** Apple Macbook Pro 16" (M1 Max)
 - **Browser:** Safari, Google Chrome, Brave, Firefox
@@ -49,7 +49,7 @@
 
 #
 
-### 🎧 I listen to music a lot. Check out what's playing right now:
+### 🎧 I listen to music a lot. Check out what's playing right now!
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=8b0wvobrhn0bw5rlq2db6ybdo&cover_image=true&theme=novatorem&bar_color=175e29&bar_color_cover=false)](https://open.spotify.com/user/8b0wvobrhn0bw5rlq2db6ybdo?si=d106919a36ad45ca)
 
