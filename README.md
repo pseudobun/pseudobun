@@ -1,4 +1,4 @@
-# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
+# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
 
 <a href="https://github.com/plesastapevka/github-readme-stats">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
