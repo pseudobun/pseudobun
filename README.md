@@ -27,15 +27,15 @@
 ### 👨🏻‍💻 Career
 - 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
 - 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
-- 🤔 &nbsp;I’m currently learning **Go, Rust and DID**
-- 💬 &nbsp;I like to talk about **Blockchain** and **Cryptocurrency**
+- 🤔 &nbsp;I’m currently learning **Go and Rust**
+- 💬 &nbsp;I like to talk about **Web3** and **Music**
 
 #
 
 ### ⚙️ Things I use to get stuff done
 - **OS:** macOS Monterey
 - **Laptop:** Apple Macbook Pro 16" (M1 Max)
-- **Browser:** Safari, Google Chrome, Brave, Firefox
+- **Browser:** Brave, Safari, Firefox
 - **Terminal:** [iTerm2](https://iterm2.com/) and the [configuration I use](https://github.com/plesastapevka/iterm-config)
 - **Code Editors:** [JetBrains](https://www.jetbrains.com/) and [VSCode](https://code.visualstudio.com/)
 
