@@ -5,10 +5,12 @@
 </a>
 
 
+[![Linktree Badge](https://img.shields.io/badge/Linktree-70dca0?style=flat-square&logo=Linktree&logoColor=black)](https://linktr.ee/plesastapevka)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urbanvidovic/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://plesastapevka.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
+
 
 <img align="left" width="160" height="160" alt="Bunny Animoji" src="bunny.png"/>
 
@@ -25,7 +27,7 @@
 
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
+- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**
 - 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
 - 🤔 &nbsp;I’m currently learning **Go and Rust**
 - 💬 &nbsp;I like to talk about **Web3** and **Music**
