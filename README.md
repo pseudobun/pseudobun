@@ -30,7 +30,7 @@
 #
 
 ### ⚙️ Things I use to get stuff done
-- **OS:** macOS Monterey
+- **OS:** macOS Ventura
 - **Laptop:** Apple Macbook Pro 16" (M1 Max)
 - **Browser:** Brave, Safari, Firefox
 - **Terminal:** [iTerm2](https://iterm2.com/) and the [configuration I use](https://github.com/plesastapevka/iterm-config)
@@ -44,6 +44,8 @@
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
+<br>
+  
 [![Stats Overview](https://github-readme-stats.vercel.app/api?username=plesastapevka&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plesastapevka&layout=compact&theme=dark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
