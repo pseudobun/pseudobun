@@ -1,16 +1,12 @@
-# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
+# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
 
-<a href="https://github.com/plesastapevka/github-readme-stats">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
+### My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
 
 [![Linktree Badge](https://img.shields.io/badge/Linktree-70dca0?style=flat-square&logo=Linktree&logoColor=black)](https://linktr.ee/plesastapevka)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urbanvidovic/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://plesastapevka.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
-
 
 <img align="left" width="160" height="160" alt="Bunny Animoji" src="bunny.png"/>
 
@@ -44,6 +40,10 @@
 #
 
 ### 📊 Github Stats
+
+<a href="https://github.com/plesastapevka/github-readme-stats">
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 
 [![Stats Overview](https://github-readme-stats.vercel.app/api?username=plesastapevka&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
