@@ -40,7 +40,7 @@
 
 ### 📊 Github Stats
 
-[![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]
+[![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 [![Stats Overview](https://github-readme-stats.vercel.app/api?username=plesastapevka&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
