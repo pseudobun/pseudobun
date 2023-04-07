@@ -21,7 +21,6 @@
 
 ## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization and making the world a better place. Also, I really **LOVE** dogs. 🐶
 
-
 ### 👨🏻‍💻 Career
 - 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**
 - 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
