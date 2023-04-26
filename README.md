@@ -2,9 +2,8 @@
 
 ### My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
 
-[![Linktree Badge](https://img.shields.io/badge/Linktree-70dca0?style=flat-square&logo=Linktree&logoColor=black)](https://linktr.ee/plesastapevka)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urbanvidovic/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://plesastapevka.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://me.bunnysden.si)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
 
