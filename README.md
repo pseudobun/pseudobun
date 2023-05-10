@@ -21,7 +21,7 @@
 ## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization and making the world a better place. Also, I really **LOVE** dogs. 🐶
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**
+- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**, building [Masca](https://masca.io)
 - 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
 - 🤔 &nbsp;I’m currently learning **Go and Rust**
 - 💬 &nbsp;I like to talk about **Web3** and **Music**
@@ -30,10 +30,11 @@
 
 ### ⚙️ Things I use to get stuff done
 - **OS:** macOS Ventura
-- **Laptop:** Apple Macbook Pro 16" (M1 Max)
-- **Browser:** Brave, Safari, Firefox
+- **Hardware:** Apple Macbook Pro 16" (M1 Max), iPad Air (4th Gen)
+- **Browser:** Brave, Safari, Firefox, Mirosoft Edge
 - **Terminal:** [iTerm2](https://iterm2.com/) and the [configuration I use](https://github.com/plesastapevka/iterm-config)
-- **Code Editors:** [JetBrains](https://www.jetbrains.com/) and [VSCode](https://code.visualstudio.com/)
+- **Code Editors:** [VSCode](https://code.visualstudio.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
+- **Note Taking App:** [Obisidan](https://obsidian.md/) and [Notability](https://notability.com/) when on iPad
 
 #
 
