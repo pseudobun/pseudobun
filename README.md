@@ -40,11 +40,11 @@
 
 ### 📊 Github Stats
 
-[![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=plesastapevka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=pseudobun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
-[![Stats Overview](https://github-readme-stats.vercel.app/api?username=plesastapevka&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats Overview](https://github-readme-stats.vercel.app/api?username=pseudobun&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plesastapevka&layout=compact&theme=dark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudobun&layout=compact&theme=dark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
