@@ -1,11 +1,11 @@
 # Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
 
-### My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[plesastapevka](https://github.com/plesastapevka/)*.
+### My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[pseudobun](https://github.com/pseudobun/)*.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urbanvidovic/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://me.bunnysden.si)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plesasta_pevka)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plesasta_pevka)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pseudourban)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pseudobun)
 
 <img align="left" width="160" height="160" alt="Bunny Animoji" src="bunny.png"/>
 
@@ -21,10 +21,10 @@
 ## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization and making the world a better place. Also, I really **LOVE** dogs. 🐶
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I'm currently working at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**, building [Masca](https://masca.io)
-- 🎓 &nbsp;I'm currently studying **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
+- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**, building [Masca](https://masca.io)
+- 🎓 &nbsp;I study **Computer Science (Master's Degree) at [FERI](https://feri.um.si/en/)**
 - 🤔 &nbsp;I’m currently learning **Go and Rust**
-- 💬 &nbsp;I like to talk about **Web3** and **Music**
+- 💬 &nbsp;I like to talk about **Web3**, **tech**, and **Music**
 
 #
 
@@ -34,7 +34,7 @@
 - **Browser:** Brave, Safari, Firefox, Mirosoft Edge
 - **Terminal:** [iTerm2](https://iterm2.com/) and the [configuration I use](https://github.com/plesastapevka/iterm-config)
 - **Code Editors:** [VSCode](https://code.visualstudio.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
-- **Note Taking App:** [Obisidan](https://obsidian.md/) and [Notability](https://notability.com/) when on iPad
+- **Note Taking App:** [Obsidian](https://obsidian.md/)
 
 #
 
