@@ -2,11 +2,6 @@
 
 ### My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[pseudobun](https://github.com/pseudobun/)*.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urbanvidovic/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://me.bunnysden.si)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pseudourban)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pseudobun)
-
 <img align="left" width="160" height="160" alt="Bunny Animoji" src="bunny.png"/>
 
 > - #### bunny
