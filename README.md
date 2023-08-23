@@ -13,7 +13,9 @@
 
 #
 
-## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization and making the world a better place. Also, I really **LOVE** dogs. 🐶
+## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization, and making the world a better place. Also, I really **LOVE** dogs. 🐶
+
+> If you want to send me anything confidential, you can use my [PGP key](https://raw.githubusercontent.com/pseudobun/dotfiles/master/pgp-key.asc).
 
 ### 👨🏻‍💻 Career
 - 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**, building [Masca](https://masca.io)
