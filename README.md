@@ -27,7 +27,7 @@
 - **OS:** macOS Ventura
 - **Hardware:** Apple Macbook Pro 16" (M1 Max), iPad Air (4th Gen)
 - **Browser:** Brave, Safari, Firefox, Mirosoft Edge
-- **Terminal:** [iTerm2](https://iterm2.com/) and the [configuration I use](https://github.com/plesastapevka/iterm-config)
+- **Terminal:** [iTerm2](https://iterm2.com/) and the [dotfiles](https://github.com/plesastapevka/dotfiles)
 - **Code Editors:** [VSCode](https://code.visualstudio.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
 - **Note Taking App:** [Obsidian](https://obsidian.md/)
 
@@ -36,8 +36,6 @@
 ### 📊 Github Stats
 
 [![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=pseudobun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  
-[![Stats Overview](https://github-readme-stats.vercel.app/api?username=pseudobun&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudobun&layout=compact&theme=dark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
