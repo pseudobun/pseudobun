@@ -51,7 +51,7 @@
 
 ### Want to buy me a coffee? ☕️
 
-<a href="https://www.buymeacoffee.com/bxnny" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160px" ></a>
+<a href="https://www.buymeacoffee.com/bxnny" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160px" /></a>
 
 #
 
