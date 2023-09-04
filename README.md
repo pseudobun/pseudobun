@@ -1,4 +1,4 @@
-# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+# Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
 
 ### My name is *Urban*, but you can call me *bunny* 🐰 or just refer to me as *[pseudobun](https://github.com/pseudobun/)*.
 
