@@ -21,7 +21,7 @@
 - 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**, building [Masca](https://masca.io)
 - 🎓 &nbsp;I have a **Master's Degree in Computer Science**, acquired at [FERI](https://feri.um.si/en/)
 - 🤔 &nbsp;I’m currently learning **Rust**
-- 💬 &nbsp;I like to talk about **Web3**, **tech**, **movies**, and **music**
+- 💬 &nbsp;I like to talk about **web3**, **tech**, **movies**, and **music**
 
 #
 
