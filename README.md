@@ -26,7 +26,7 @@
 #
 
 ### ⚙️ Things I use to get stuff done
-- **OS:** macOS Ventura
+- **OS:** macOS Sonoma
 - **Hardware:** Apple Macbook Pro 16" (M1 Max), iPad Air (4th Gen)
 - **Browser:** Arc, Brave, Safari, Firefox, Microsoft Edge
 - **Terminal:** [iTerm2](https://iterm2.com/) and the [dotfiles](https://github.com/plesastapevka/dotfiles)
