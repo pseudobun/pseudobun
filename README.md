@@ -39,7 +39,7 @@
 
 [![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=pseudobun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudobun&layout=compact&theme=dark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=pseudobun&layout=compact&theme=dark&hide=html&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudobun&theme=dark&hide=html,jupyter%20notebook,ruby,shell&langs_count=8&exclude_repo=solo-projects&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
