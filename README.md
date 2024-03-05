@@ -18,12 +18,9 @@
 > If you want to send me anything confidential, you can use my [PGP key](https://raw.githubusercontent.com/pseudobun/dotfiles/master/pgp-key.asc).
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)**, building [Masca](https://masca.io)
+- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**, building [Masca](https://masca.io)
 - 🎓 &nbsp;I have a **Master's Degree in Computer Science**, acquired at [FERI](https://feri.um.si/en/)
 - 🤔 &nbsp;I’m currently learning **Rust**
-- 💬 &nbsp;I like to talk about **web3**, **tech**, **movies**, and **music**
-
-#
 
 ### ⚙️ Things I use to get stuff done
 - **OS:** macOS Sonoma
@@ -35,6 +32,14 @@
 
 #
 
+### 🎨 Hobbies
+- 💬 &nbsp;I like to talk about **web3**, **crypto**, and **tech**
+- 🎬 &nbsp;I watch a lot of **movies**
+- 🎵 &nbsp;I listen to a lot of **music**
+- 🏀 &nbsp;I also work out and play sports, mainly **basketball**, **gym**, **swimming**, and **running**
+
+#
+
 ### 📊 Github Stats
 
 [![Overall Stats](http://github-readme-streak-stats.herokuapp.com?user=pseudobun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -43,13 +48,13 @@
 
 #
 
-### 🎧 I listen to music a lot. Check out what's playing right now!
+### 🎧 Check out what I'm listing to right now!
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=8b0wvobrhn0bw5rlq2db6ybdo&cover_image=true&theme=novatorem&bar_color=175e29&bar_color_cover=false)](https://open.spotify.com/user/8b0wvobrhn0bw5rlq2db6ybdo?si=d106919a36ad45ca)
 
 #
 
-### Want to buy me a coffee? ☕️
+### ☕️ Want to buy me a coffee?
 
 <a href="https://www.buymeacoffee.com/bxnny" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160px" /></a>
 
