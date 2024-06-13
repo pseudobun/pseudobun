@@ -18,7 +18,7 @@
 > If you want to send me anything confidential, you can use my [PGP key](https://raw.githubusercontent.com/pseudobun/dotfiles/master/pgp-key.asc).
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**, building [Masca](https://masca.io)
+- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**, building [Masca](https://masca.io) and [endorse.fun](https://endorse.fun)
 - 🎓 &nbsp;I have a **Master's Degree in Computer Science**, acquired at [FERI](https://feri.um.si/en/)
 - 🤔 &nbsp;I’m currently learning **Rust**
 
