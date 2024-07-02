@@ -50,12 +50,6 @@
 
 #
 
-### 🎧 Check out what I'm listing to right now!
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=8b0wvobrhn0bw5rlq2db6ybdo&cover_image=true&theme=novatorem&bar_color=175e29&bar_color_cover=false)](https://open.spotify.com/user/8b0wvobrhn0bw5rlq2db6ybdo?si=d106919a36ad45ca)
-
-#
-
 ### ☕️ Want to buy me a coffee?
 
 <a href="https://www.buymeacoffee.com/bxnny" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160px" /></a>
