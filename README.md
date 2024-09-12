@@ -13,20 +13,22 @@
 
 #
 
-## I'm a Software Engineer with great interest and passion for Blockchain, Web3, Decentralization, and making the world a better place. Also, I really **LOVE** dogs. 🐶
+### I'm a Software Engineer with great interest and passion for blockchain, web3, decentralization, optimization, and making the world a better place. I'm all about that be-gentle-to-yourself-mental-health-is-important lifestyle. Also, I really **LOVE** dogs. 🐶
 
 > If you want to send me anything confidential, you can use my [PGP key](https://raw.githubusercontent.com/pseudobun/dotfiles/master/pgp-key.asc).
+
+#
 
 ### 👨🏻‍💻 Career
 - 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**, building [Masca](https://masca.io) and [endorse.fun](https://endorse.fun)
 - 🎓 &nbsp;I have a **Master's Degree in Computer Science**, acquired at [FERI](https://feri.um.si/en/)
-- 🤔 &nbsp;I’m currently learning **Rust**
 
 ### ⚙️ Things I use to get stuff done
 - **OS:** macOS Sonoma
 - **Hardware:** Apple Macbook Pro 16" (M1 Max), iPad Air (4th Gen)
+- **Global configs:** [`dotfiles`](https://github.com/plesastapevka/dotfiles)
 - **Browser:** Arc, Brave, Safari, Firefox, Microsoft Edge
-- **Terminal:** [iTerm2](https://iterm2.com/) and the [dotfiles](https://github.com/plesastapevka/dotfiles)
+- **Terminal:** [iTerm2](https://iterm2.com/)
 - **Code Editors:** [VSCode](https://code.visualstudio.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
 - **Note Taking App:** [Obsidian](https://obsidian.md/)
 
