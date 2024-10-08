@@ -20,7 +20,11 @@
 #
 
 ### 👨🏻‍💻 Career
-- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**, building [Masca](https://masca.io) and [endorse.fun](https://endorse.fun)
+- 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**
+- 🚧 &nbsp;Some projects I worked/am working on:
+  - 😷 &nbsp;[Masca](https://masca.io)
+  - 🤝 &nbsp;[endorse.fun](https://endorse.fun)
+  - ⚡️ &nbsp;[Swaylend](https://swaylend.com)
 - 🎓 &nbsp;I have a **Master's Degree in Computer Science**, acquired at [FERI](https://feri.um.si/en/)
 
 ### ⚙️ Things I use to get stuff done
@@ -29,8 +33,8 @@
 - **Global configs:** [`dotfiles`](https://github.com/plesastapevka/dotfiles)
 - **Browser:** Arc, Brave, Safari, Firefox, Microsoft Edge
 - **Terminal:** [iTerm2](https://iterm2.com/)
-- **Code Editors:** [VSCode](https://code.visualstudio.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
-- **Note Taking App:** [Obsidian](https://obsidian.md/)
+- **Code Editors:** [Cursor](https://www.cursor.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
+- **Note Taking App:** [Notion](https://notion.so) and [Obsidian](https://obsidian.md/)
 
 #
 
