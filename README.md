@@ -15,7 +15,9 @@
 
 ### I'm a Software Engineer with great interest and passion for blockchain, web3, decentralization, optimization, and making the world a better place. I'm all about that be-gentle-to-yourself-mental-health-is-important lifestyle. Also, I really **LOVE** dogs. 🐶
 
-> If you want to send me anything confidential, you can use my [PGP key](https://raw.githubusercontent.com/pseudobun/dotfiles/master/pgp-key.asc).
+> If you want to send me anything confidential, you can use my PGP keys:
+>   - [PGP](https://raw.githubusercontent.com/pseudobun/dotfiles/main/bunnys-cloud-pgp-key.asc) for [urban@bunnys.cloud](mailto:urban@bunnys.cloud)
+>   - [PGP](https://raw.githubusercontent.com/pseudobun/dotfiles/main/urbanfoundit-pgp-key.asc) for [urbanfoundit@gmail.com](mailto:urbanfoundit@gmail.com)
 
 #
 
