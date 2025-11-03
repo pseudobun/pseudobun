@@ -24,16 +24,17 @@
 ### 👨🏻‍💻 Career
 - 🏢 &nbsp;I work at **[Blockchain Lab:UM](https://linktr.ee/blockchainlabum)** and **[Lutra Labs](https://lutralabs.io)**
 - 🚧 &nbsp;Some projects I worked/am working on:
+  - 🗑️ &nbsp;[Tossinger](https://github.com/pseudobun/tossinger)
   - 😷 &nbsp;[Masca](https://masca.io)
   - 🤝 &nbsp;[endorse.fun](https://endorse.fun)
   - ⚡️ &nbsp;[Swaylend](https://swaylend.com)
 - 🎓 &nbsp;I have a **Master's Degree in Computer Science**, acquired at [FERI](https://feri.um.si/en/)
 
 ### ⚙️ Things I use to get stuff done
-- **OS:** macOS Sonoma
+- **OS:** macOS Tahoe
 - **Hardware:** Apple Macbook Pro 16" (M1 Max), iPad Air (4th Gen)
 - **Global configs:** [`dotfiles`](https://github.com/plesastapevka/dotfiles)
-- **Browser:** Arc, Brave, Safari, Firefox, Microsoft Edge
+- **Browser:** Zen, Brave, Safari
 - **Terminal:** [iTerm2](https://iterm2.com/)
 - **Code Editors:** [Cursor](https://www.cursor.com/) and [JetBrains](https://www.jetbrains.com/) IDEs
 - **Note Taking App:** [Notion](https://notion.so) and [Obsidian](https://obsidian.md/)
@@ -44,7 +45,7 @@
 - 💬 &nbsp;I like to talk about **web3**, **crypto**, and **tech**
 - 🎬 &nbsp;I watch a lot of **movies**
 - 🎵 &nbsp;I listen to a lot of **music**
-- 🏀 &nbsp;I also work out and play sports, mainly **basketball**, **gym**, **swimming**, and **running**
+- 🧗 &nbsp;I also work out and play sports, mainly **bouldering**, **padel**, **gym**, and **running**
 
 #
 
