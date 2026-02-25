@@ -45,7 +45,7 @@
 - 💬 &nbsp;I like to talk about **web3**, **crypto**, and **tech**
 - 🎬 &nbsp;I watch a lot of **movies**
 - 🎵 &nbsp;I listen to a lot of **music**
-- 🧗 &nbsp;I also work out and play sports, mainly **bouldering**, **padel**, **gym**, and **running**
+- 🧗 &nbsp;I also work out and play sports, mainly **bouldering**, **padel**, **gym**, **swimming**, **skiing**, and **running**
 
 #
 
