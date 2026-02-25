@@ -55,8 +55,6 @@
 
 ![GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=pseudobun&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudobun&theme=dark&hide=html,jupyter%20notebook,ruby,shell&langs_count=8&exclude_repo=solo-projects&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 #
 
 ### ☕️ Want to buy me a coffee?
