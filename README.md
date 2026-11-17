@@ -4,7 +4,7 @@
 
 - engineer
 - founder/coo @ [Lutra Labs](https://lutralabs.io)
-- r&d @ [Blockchain Lab:UM](https://linktr.ee/blockchainlabum)
+- r&d @ [Blockchain Lab:UM](https://bclabum.si)
 - MSc in CS from [FERI](https://feri.um.si/en/)
 - web3, decentralization and making things fast
 - projects: [Masca](https://masca.io) · [tip](https://github.com/pseudobun/tip) · [hop](https://github.com/pseudobun/hop) · [paw](https://github.com/pseudobun/paw)
