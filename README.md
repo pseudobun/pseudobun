@@ -2,7 +2,7 @@
 
 <img align="right" width="120" alt="pseudobun logo" src="logo.svg">
 
-- Software engineer
+- Engineer
 - Founder/COO @ [Lutra Labs](https://lutralabs.io)
 - R&D @ [Blockchain Lab:UM](https://linktr.ee/blockchainlabum)
 - MSc in CS from [FERI](https://feri.um.si/en/)
