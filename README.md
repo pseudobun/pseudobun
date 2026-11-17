@@ -2,12 +2,12 @@
 
 <img align="right" width="120" alt="pseudobun logo" src="logo.svg">
 
-- Engineer
-- Founder/COO @ [Lutra Labs](https://lutralabs.io)
-- R&D @ [Blockchain Lab:UM](https://linktr.ee/blockchainlabum)
+- engineer
+- founder/coo @ [Lutra Labs](https://lutralabs.io)
+- r&d @ [Blockchain Lab:UM](https://linktr.ee/blockchainlabum)
 - MSc in CS from [FERI](https://feri.um.si/en/)
-- Into web3, decentralization and making things fast
-- Projects: [Masca](https://masca.io) · [Swaylend](https://swaylend.com) · [endorse.fun](https://endorse.fun) · [Tossinger](https://github.com/pseudobun/tossinger)
+- web3, decentralization and making things fast
+- projects: [Masca](https://masca.io) · [tip](https://github.com/pseudobun/tip) · [hop](https://github.com/pseudobun/hop) · [paw](https://github.com/pseudobun/paw)
 - Contact: [urban@bunnys.cloud](mailto:urban@bunnys.cloud) ([PGP](https://raw.githubusercontent.com/pseudobun/dotfiles/main/bunnys-cloud-pgp-key.asc)) · [urbanfoundit@gmail.com](mailto:urbanfoundit@gmail.com) ([PGP](https://raw.githubusercontent.com/pseudobun/dotfiles/main/urbanfoundit-pgp-key.asc))
 - Off-screen: bouldering, skiing, film buff, music and dogs 🐶
 
