@@ -8,6 +8,9 @@
 - MSc in CS from [FERI](https://feri.um.si/en/)
 - web3, decentralization and making things fast
 - projects: [Masca](https://masca.io) · [tip](https://github.com/pseudobun/tip) · [hop](https://github.com/pseudobun/hop) · [paw](https://github.com/pseudobun/paw)
+
+  <a href="https://github.com/pseudobun/tip"><img src="https://raw.githubusercontent.com/pseudobun/tip/main/docs/assets/logo.svg" width="48" height="48" alt="tip"></a> <a href="https://github.com/pseudobun/hop"><img src="https://raw.githubusercontent.com/pseudobun/hop/main/docs/assets/logo.svg" width="48" height="48" alt="hop"></a> <a href="https://github.com/pseudobun/paw"><img src="https://raw.githubusercontent.com/pseudobun/paw/main/docs/assets/logo.svg" width="48" height="48" alt="paw"></a>
+
 - Contact: [urban@bunnys.cloud](mailto:urban@bunnys.cloud) ([PGP](https://raw.githubusercontent.com/pseudobun/dotfiles/main/bunnys-cloud-pgp-key.asc)) · [urbanfoundit@gmail.com](mailto:urbanfoundit@gmail.com) ([PGP](https://raw.githubusercontent.com/pseudobun/dotfiles/main/urbanfoundit-pgp-key.asc))
 - Off-screen: bouldering, skiing, film buff, music and dogs 🐶
 
