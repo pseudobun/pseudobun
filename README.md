@@ -1,6 +1,6 @@
 ### yo, I'm Urban, people call me bunny, my online presence is `pseudobun`
 
-<img align="right" width="120" alt="pseudobun logo" src="logo.svg">
+<picture><source media="(prefers-color-scheme: light)" srcset="logo-dark.svg"><img align="right" width="120" alt="pseudobun logo" src="logo.svg"></picture>
 
 MSc in CS from [FERI](https://feri.um.si/en/). into web3, decentralization and making things fast.
 
@@ -11,7 +11,9 @@ MSc in CS from [FERI](https://feri.um.si/en/). into web3, decentralization and m
 
 #### macOS tools
 
-<a href="https://github.com/pseudobun/tip"><img src="logos/tip.svg" width="48" height="48" alt="tip"></a> <a href="https://github.com/pseudobun/hop"><img src="logos/hop.svg" width="48" height="48" alt="hop"></a> <a href="https://github.com/pseudobun/paw"><img src="logos/paw.svg" width="48" height="48" alt="paw"></a>
+| <a href="https://github.com/pseudobun/hop"><picture><source media="(prefers-color-scheme: light)" srcset="logos/hop-dark.svg"><img width="48" alt="hop" src="logos/hop.svg"></picture></a> | <a href="https://github.com/pseudobun/tip"><picture><source media="(prefers-color-scheme: light)" srcset="logos/tip-dark.svg"><img width="48" alt="tip" src="logos/tip.svg"></picture></a> | <a href="https://github.com/pseudobun/paw"><picture><source media="(prefers-color-scheme: light)" srcset="logos/paw-dark.svg"><img width="48" alt="paw" src="logos/paw.svg"></picture></a> |
+|:-:|:-:|:-:|
+| [hop](https://github.com/pseudobun/hop) launcher | [tip](https://github.com/pseudobun/tip) menu bar | [paw](https://github.com/pseudobun/paw) tiling wm |
 
 #### contact
 
