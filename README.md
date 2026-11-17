@@ -2,7 +2,7 @@
 
 <img align="right" width="120" alt="pseudobun logo" src="logo.svg">
 
-engineer · founder/coo @ [Lutra Labs](https://lutralabs.io) · r&d @ [Blockchain Lab:UM](https://bclabum.si)
+engineer · founder/coo @ [Lutra Labs](https://lutralabs.io) · r&d @ [Blockchain Lab:UM](https://bclabum.si)<br>
 MSc in CS from [FERI](https://feri.um.si/en/). into web3, decentralization and making things fast.
 
 #### work
