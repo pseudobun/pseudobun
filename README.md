@@ -12,7 +12,7 @@ MSc in CS from [FERI](https://feri.um.si/en/). into web3, decentralization and m
 
 #### macOS tools
 
-<a href="https://github.com/pseudobun/tip"><img src="https://raw.githubusercontent.com/pseudobun/tip/main/docs/assets/logo.svg" width="48" height="48" alt="tip"></a> <a href="https://github.com/pseudobun/hop"><img src="https://raw.githubusercontent.com/pseudobun/hop/main/docs/assets/logo.svg" width="48" height="48" alt="hop"></a> <a href="https://github.com/pseudobun/paw"><img src="https://raw.githubusercontent.com/pseudobun/paw/main/docs/assets/logo.svg" width="48" height="48" alt="paw"></a>
+<a href="https://github.com/pseudobun/tip"><img src="logos/tip.svg" width="48" height="48" alt="tip"></a> <a href="https://github.com/pseudobun/hop"><img src="logos/hop.svg" width="48" height="48" alt="hop"></a> <a href="https://github.com/pseudobun/paw"><img src="logos/paw.svg" width="48" height="48" alt="paw"></a>
 
 [tip](https://github.com/pseudobun/tip) menu bar · [hop](https://github.com/pseudobun/hop) launcher · [paw](https://github.com/pseudobun/paw) tiling window manager
 
